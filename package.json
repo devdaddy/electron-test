@@ -1,0 +1,19 @@
+{
+  "name": "electron-test",
+  "productName": "Electron Test",
+  "version": "1.0.0",
+  "description": "Shopping List Desktop App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Eric Schmuecker",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^2.0.8",
+    "nodemon": "^1.18.3"
+  },
+  "devDependencies": {
+    "electron-packager": "^12.1.1"
+  }
+}
