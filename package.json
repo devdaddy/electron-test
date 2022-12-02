@@ -10,8 +10,8 @@
   "author": "Eric Schmuecker",
   "license": "MIT",
   "dependencies": {
-    "electron": "^18.3.7",
-    "nodemon": "^1.18.3"
+    "electron": "^22.0.0",
+    "nodemon": "^2.0.20"
   },
   "devDependencies": {
     "electron-packager": "^16.0.0"
